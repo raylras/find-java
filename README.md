@@ -1,4 +1,5 @@
 # find-java.bat
+Find the list of installed Java homes on Windows
 
 ## Usages
 - CMD
