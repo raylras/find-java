@@ -30,16 +30,10 @@
   ```
 ## Samples
   ```shell
-  C:\Program Files\Zulu\zulu-17\
-  C:\Program Files\Zulu\zulu-17\
-  C:\Program Files\Java\jre-1.8
-  C:\Program Files\Java\jre-1.8
-  C:\Program Files\Java\jre-1.8
-  C:\Program Files\Zulu\zulu-17\
-  C:\Program Files\Zulu\zulu-17\
-  C:\Program Files\Eclipse Adoptium\jdk-11.0.20.8-hotspot\
-  C:\Program Files\Eclipse Adoptium\jre-17.0.7.7-hotspot\
-  C:\Program Files\Eclipse Adoptium\jre-8.0.372.7-hotspot\
+  C:\Program Files\Eclipse Adoptium\jdk-11.0.20.8-hotspot\ 
+  C:\Program Files\Eclipse Adoptium\jre-17.0.7.7-hotspot\ 
+  C:\Program Files\Eclipse Adoptium\jre-8.0.372.7-hotspot\ 
+  C:\Program Files\Java\jre-1.8 
   C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\
   C:\Program Files\Zulu\zulu-17\
   ```
