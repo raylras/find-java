@@ -3,8 +3,11 @@
 set "SOFT64=HKEY_LOCAL_MACHINE\SOFTWARE"
 set "SOFT32=HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node"
 
+@REM create temp files
 set "dup=%TEMP%\find-java_dup.txt"
 set "dedup=%TEMP%\find-java_dedup.txt"
+type nul>%dup%
+type nul>%dedup%
 
 @REM Oracle
 for /f "tokens=2,*" %%i in ('reg query "%SOFT64%\JavaSoft" /s 2^>nul ^| find " JavaHome "') do @echo %%j >> %dup%
