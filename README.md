@@ -29,6 +29,14 @@ Find the list of installed Java homes on Windows
   
   }
   ```
+- Node.js (CommonJS)
+  ```js
+  const { execFile } = require("node:child_process");
+  
+  execFile("find-java.bat", (error, stdout) => {
+    console.log(stdout)
+  })
+  ```
 ## Samples
   ```shell
   C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.382.5-hotspot\ 
