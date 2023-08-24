@@ -1,7 +1,3 @@
-@REM Copyright (c) 2023 raylras
-@REM
-@REM This code is licensed under the MIT license (MIT) (https://opensource.org/license/mit/)
-
 @echo off
 
 set "SOFT64=HKEY_LOCAL_MACHINE\SOFTWARE"
